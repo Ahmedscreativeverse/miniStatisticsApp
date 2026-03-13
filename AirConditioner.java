@@ -23,4 +23,4 @@ public static boolean knowTheDefaultStateOfAc() {
     public boolean isOn() {
         return on;  
     }
-}
+
